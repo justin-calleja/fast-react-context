@@ -11,4 +11,13 @@
     "simple-context/": true,
     "starter/": true
   }
+  // "sqltools.useNodeRuntime": true,
+  // "sqltools.connections": [
+  //   {
+  //     "previewLimit": 50,
+  //     "driver": "SQLite",
+  //     "name": "dev.db conn",
+  //     "database": "${workspaceFolder:fast-react-context}/server/prisma/dev.db"
+  //   }
+  // ]
 }
